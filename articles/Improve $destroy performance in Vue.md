@@ -1,6 +1,7 @@
 # Improve $destroy performance in Vue
 
-[Статья](https://medium.com/@przemyslaw.jan.beigert/improve-destroy-performance-in-vue-47e212abe135)
+- [Статья](https://medium.com/@przemyslaw.jan.beigert/improve-destroy-performance-in-vue-47e212abe135)
+- [Бэкап](./files/Improve%20$destroy%20performance%20in%20Vue.png)
 
 ## Выжимка
 
