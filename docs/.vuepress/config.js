@@ -3,13 +3,13 @@ module.exports = {
     logo: '/logo.jpg',
     nav: [
       { text: 'Awesome', link: '/' },
-      { text: 'Articles', link: '/articles/' },
+      { text: 'Статьи', link: '/articles/' },
     ],
     sidebar: [
       {
-        title: 'Articles',
+        title: 'Статьи',
         path: '/articles/',
-        collapsable: false,
+        collapsable: true,
         children: [
           {
             title: 'Link preload prefetch',
@@ -18,6 +18,18 @@ module.exports = {
           {
             title: 'Optimization with $destroy in Vue',
             path: '/articles/optimize-destroy-vue/optimize-destroy-vue'
+          },
+        ]
+      },
+
+      {
+        title: 'Структуры данных',
+        path: '/data-structures/',
+        collapsable: true,
+        children: [
+          {
+            title: 'Linked list',
+            path: '/data-structures/linked-list/'
           },
         ]
       }
