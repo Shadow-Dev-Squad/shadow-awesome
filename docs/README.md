@@ -7,6 +7,7 @@
 
 #### Инструменты: разработка, проектирование
 - [Excalidraw](https://excalidraw.com/) - для удобного наброска диаграмм
-- [Carbon](https://carbon.now.sh/) - для красивых скриншотов
+- [Carbon](https://carbon.now.sh/) - для красивых сниппетов кода
 - [Replit](https://replit.com/) - браузерный редактор(IDE) кода, для совместной разработки
 - [Icomoon](https://icomoon.io/) - штука для создания иконочного шрифта
+- [Joke Api](https://v2.jokeapi.dev/joke/Programming) - Api для генерации шуток
